@@ -1,1 +1,1 @@
-# Econometrics
+# Ejemplos de manejo de SQL
